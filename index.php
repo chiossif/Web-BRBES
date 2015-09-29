@@ -10,7 +10,10 @@
 <script src="scripts/js/script.js?t=<?php echo time(); ?>"></script>
 </head>
 <?php include_once('loadingData.php');
-/* $transformedRefVal1=array_fill(0,5,0);
+/* 
+
+teste
+$transformedRefVal1=array_fill(0,5,0);
 print_r($transformedRefVal1);
 $transformedRefVal1=array_fill(0,7,10);
 print_r($transformedRefVal1); 
